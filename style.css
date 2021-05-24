@@ -47,7 +47,7 @@ h1 {
 }
 h2 {
   font-family: "Poppins", sans-serif;
-  font-size: 30px;
+
   margin: 20px;
 }
 h3 {
@@ -190,6 +190,12 @@ i {
 }
 
 @media screen and (min-width: 1000px) {
+  h1 {
+    font-size: 60px;
+  }
+  h2 {
+    font-size: 40px;
+  }
   .logo {
     object-fit: contain;
     width: 10%;
@@ -202,7 +208,7 @@ i {
   .screen-mockups {
     object-fit: contain;
     margin: 50px 0 0 0;
-    width: 50vw;
+    width: 70vw;
     min-width: 700px;
   }
   section {

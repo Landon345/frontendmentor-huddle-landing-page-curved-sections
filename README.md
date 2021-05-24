@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/social-proof-section-H56JMikZ6)
-- Live Site URL: [Github Pages Link](https://landon345.github.io/frontendmentor-social-proof-section/)
+- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/curved-sections-SGLCb9Zik)
+- Live Site URL: [Github Pages Link](https://landon345.github.io/frontendmentor-huddle-landing-page-curved-sections/)
 
 ## My process
 
